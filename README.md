@@ -1,8 +1,11 @@
 # python-graphql-todo-list
 Todo list using Flask, GraphQL api structure &amp; sqlite
 
-To run, first activate the virtual environment:
+# Installation
+Install the virtual environment:
+```python -m venv todo_api_env```
 
+Activate the virtual environment:
 ```source todo_api_env/bin/activate```
 
 Install necessary packages:
